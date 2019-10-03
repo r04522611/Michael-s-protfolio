@@ -34,9 +34,11 @@
 .left{
     width: 50%;
     background-color: blue;
-    background-image: url('UC Bear.jpg');
-    background-size: cover;
-    
+    background-image: url('UC Bear2.jpg');
+    /* background-size: cover; */
+    align-items: center;
+    background-position: center;
+    justify-content: center;
     background-repeat: no-repeat;
 }
 .right{
@@ -54,7 +56,7 @@
     width: 100%;
     height: 100vh;
     /* background-color: red; */
-    background-color: blue;
+    background-color: gray;
     /* background-image: url('UC5.jpg'); */
     background-size: cover;
     background-position: center;
