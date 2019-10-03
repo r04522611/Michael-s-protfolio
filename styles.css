@@ -33,9 +33,9 @@
 }
 .left{
     width: 50%;
-    background-color: blue;
+    /* background-color: blue; */
     background-image: url('UC Bear2.jpg');
-    /* background-size: cover; */
+    background-size: cover;
     align-items: center;
     background-position: center;
     justify-content: center;
