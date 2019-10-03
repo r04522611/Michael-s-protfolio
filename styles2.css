@@ -1,0 +1,28 @@
+/* *{      統一box size */
+*{
+    box-sizing: border-box;
+    padding : 0;
+    margin: 0;
+}
+
+.homeworks{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+
+.homework{
+    width: 100px;
+    height: 100px;
+    /* background-image: url('bg.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */
+
+    border: 1px solid red;
+    background-color: coral;
+    padding: 10px;
+    Margin: 10px;
+    box-sizing: border-box;
+
+}

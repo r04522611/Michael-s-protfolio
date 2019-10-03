@@ -1,0 +1,65 @@
+ @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+.大標題{
+    /* font-size: 50px;
+    font-family: 'Noto Sans TC', sans-serif; */
+    color:rgb(255, 255, 255);
+    /* background-color: bisque; */
+}
+
+/* .小標題{
+    color: red;
+}
+#Slogan{
+    color: aqua;
+} */
+
+.Home{
+    width: 100%;
+    height: 100vh;
+    /* background-color: red; */
+    background-image: url('UC5.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.aboutme{
+    width: 100%;
+    height: 100vh;
+    /* background-color: red; */
+    display: flex;
+}
+.left{
+    width: 50%;
+    background-color: blue;
+    background-image: url('UC Bear.jpg');
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+}
+.right{
+    width: 50%;
+    background-color: yellow;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact{
+    width: 100%;
+    height: 100vh;
+    /* background-color: red; */
+    background-color: blue;
+    /* background-image: url('UC5.jpg'); */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
